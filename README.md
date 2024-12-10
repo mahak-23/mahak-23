@@ -1,10 +1,9 @@
 ### Hi there, I am Mahak 👋
-✨ I am a Frontend developer.\
-✨ I make websites and web applications.\
-✨ I like reading and learning new things.\
-🌱 I’m currently learning Full Stack Development.\
-📫 You can email me at mahak1923k@gmail.com. 
-- 💬 If you have any questions/feedback, please do not hesitate to contact me!
+✨ A passionate Frontend Developer with a knack for crafting engaging websites and web applications.\
+✨ Driven by curiosity, I love reading and exploring new technologies to expand my skill set.\
+🌱 Currently diving deeper into Full Stack Development to broaden my expertise.\
+📫 Feel free to reach out at mahak1923k@gmail.com for collaboration or queries.
+- 💬 Have questions or feedback? I’d be happy to connect!
   
 ## 💼 Technical Skills
 
