@@ -1,10 +1,10 @@
 ### Hi there, I am Mahak 👋
-✨ I am a Software developer.\
+✨ I am a Frontend developer.\
 ✨ I make websites and web applications.\
 ✨ I like reading and learning new things.\
 🌱 I’m currently learning Full Stack Development.\
 📫 You can email me at mahak1923k@gmail.com. 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to contact me!
   
 ## 💼 Technical Skills
 
@@ -30,7 +30,7 @@
 - [Python Pyramid – HTML Form Template](https://www.geeksforgeeks.org/python-pyramid-html-form-template)
   
 ## 📈 GitHub Stats 
-<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mahak-23)](https://github.com/mahak-23) -->
+[![Mahak’s github stats](https://github-readme-stats.vercel.app/api?username=mahak-23)](https://github.com/mahak-23)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-23&layout=compact)](https://github.com/mahak-23)
 
