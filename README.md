@@ -1,6 +1,6 @@
 ### Hi there, I am Mahak 👋
 ✨ A passionate Frontend Developer with a knack for crafting engaging websites and web applications.\
-✨ Driven by curiosity, I love reading and exploring new technologies to expand my skill set.\
+🔎 I’m actively looking to collaborate on Open source Project
 🌱 Currently diving deeper into Full Stack Development to broaden my expertise.\
 📫 Feel free to reach out at mahak1923k@gmail.com for collaboration or queries.
 - 💬 Have questions or feedback? I’d be happy to connect!
