@@ -46,7 +46,8 @@
 - [Python Pyramid – HTML Form Template](https://www.geeksforgeeks.org/python-pyramid-html-form-template)
   
 ## 📈 GitHub Stats 
+<!---
 [![Mahak’s github stats](https://github-readme-stats.vercel.app/api?username=mahak-23)](https://github.com/mahak-23)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-23&layout=compact)](https://github.com/mahak-23)
 
