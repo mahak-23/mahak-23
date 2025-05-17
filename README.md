@@ -3,51 +3,28 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  Frontend Developer
 </h3>
 
 - ✨ A passionate Frontend Developer with a knack for crafting engaging websites and web applications.
-  
 - 🔎 I’m actively looking to collaborate on **open-source Project**
-
 - 💻 Portfolio Project **[Mahak - Portfolio](https://mahak.netlify.app/)**
-
 - 🌱 Currently diving deeper into Full Stack Development to broaden my expertise.
-  
 - 📫 Feel free to reach out if you have any opportunity that fits my background: **mahak1923k@gmail.com**
 
 ## 🔰 Let's Connect:
-💬 Have questions or feedback? I’d be happy to connect!
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-k-100971232/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahak1923k@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-k-100971232/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahak1923k@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahak-23)  
   
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-</br>
-
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=003B57)
-![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=MongoDb&color=003B57)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+<img src='https://img.shields.io/badge/-Python-003B57?style=for-the-badge&logo=Python&logoColor=white'> <img src='https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black'> <img src='https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white'> <img src='https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white'> <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black'> <img src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white'> <img src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white'> <img src='https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white'> <img src='https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white'> <img src='https://img.shields.io/badge/-Parcel-CB3837?style=for-the-badge&logo=Parcel&logoColor=white'> <img src='https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'> <img src='https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white'> <img src='https://img.shields.io/badge/-MongoDb-003B57?style=for-the-badge&logo=MongoDB&logoColor=white'> <img src='https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white'> <img src='https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white'> <img src='https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'> <img src='https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white'> <img src='https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'>
 
 ## 📝 Latest Blog Posts
 - [Python Pyramid – HTML Form Template](https://www.geeksforgeeks.org/python-pyramid-html-form-template)
   
 ## 📈 GitHub Stats 
-<!---
-[![Mahak’s github stats](https://github-readme-stats.vercel.app/api?username=mahak-23)](https://github.com/mahak-23)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-23&layout=compact)](https://github.com/mahak-23)
-
+<p align='start'>
+<!--- <img src='https://github-readme-streak-stats.herokuapp.com/?user=mahak-23&theme=radical'> --->
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-23&layout=compact&theme=radical'>
+</p>
