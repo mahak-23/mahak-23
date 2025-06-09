@@ -22,7 +22,8 @@
 
 ## 📝 Latest Blog Posts
 - [Python Pyramid – HTML Form Template](https://www.geeksforgeeks.org/python-pyramid-html-form-template)
-  
+- [Machine Learning in Cyber Security: Applications and Challenges](https://www.geeksforgeeks.org/ml-in-cyber-security/) 
+
 ## 📈 GitHub Stats 
 <p align='start'>
 <!--- <img src='https://github-readme-streak-stats.herokuapp.com/?user=mahak-23&theme=radical'> --->
