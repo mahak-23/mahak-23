@@ -16,9 +16,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-k-100971232/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahak1923k@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahak-23)  
   
-## 💼 Technical Skills
+## 🔧 Technologies & Tools:
 
-<img src='https://img.shields.io/badge/-Python-003B57?style=for-the-badge&logo=Python&logoColor=white'> <img src='https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black'> <img src='https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white'> <img src='https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white'> <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black'> <img src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white'> <img src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white'> <img src='https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white'> <img src='https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white'> <img src='https://img.shields.io/badge/-Parcel-CB3837?style=for-the-badge&logo=Parcel&logoColor=white'> <img src='https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'> <img src='https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white'> <img src='https://img.shields.io/badge/-MongoDb-003B57?style=for-the-badge&logo=MongoDB&logoColor=white'> <img src='https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white'> <img src='https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white'> <img src='https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'> <img src='https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white'> <img src='https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'>
+#### Languages
+<img src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black'> <img src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white'> <img src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white'> <img src='https://img.shields.io/badge/-Python-003B57?style=for-the-badge&logo=Python&logoColor=white'> 
+
+#### Frameworks and Libraries
+<img src='https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black'> <img src='https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white'> <img src='https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white'>   <img src='https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white'> <img src='https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white'> 
+
+#### Databases
+<img src='https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white'> <img src='https://img.shields.io/badge/-MongoDb-003B57?style=for-the-badge&logo=MongoDB&logoColor=white'>
+
+#### Version Control
+<img src='https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white'> <img src='https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'>
+
+#### Tools & Utilities
+<img src='https://img.shields.io/badge/-Parcel-CB3837?style=for-the-badge&logo=Parcel&logoColor=white'> <img src='https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'>  <img src='https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white'> <img src='https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white'> <img src='https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'> 
 
 ## 📝 Latest Blog Posts
 - [Python Pyramid – HTML Form Template](https://www.geeksforgeeks.org/python-pyramid-html-form-template)
