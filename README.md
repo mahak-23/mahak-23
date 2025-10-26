@@ -39,6 +39,6 @@
 
 ## 📈 GitHub Stats 
 <p align='start'>
-<!--- <img src='https://github-readme-streak-stats.herokuapp.com/?user=mahak-23&theme=radical'> --->
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=mahak-23&theme=radical'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-23&layout=compact&theme=radical'>
 </p>
