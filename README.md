@@ -2,11 +2,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Mahak.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-<h1 align='center'>
+<!-- <h1 align='center'>
   <img src="./banner.png" alt="Banner" />
-</h1>
+</h1> -->
 
-- ✨ A passionate Frontend Developer with a knack for crafting engaging websites and web applications.
+- ✨ A passionate Software Developer with a knack for crafting engaging websites and web applications.
 - 🔎 I’m actively looking to collaborate on **open-source Project**
 - 💻 Portfolio Project **[Mahak - Portfolio](https://mahak.netlify.app/)**
 - 🌱 Currently diving deeper into Full Stack Development to broaden my expertise.
