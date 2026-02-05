@@ -6,32 +6,49 @@
   <img src="./banner.png" alt="Banner" />
 </h1> -->
 
-- ✨ A passionate Software Developer with a knack for crafting engaging websites and web applications.
-- 🔎 I’m actively looking to collaborate on **open-source Project**
-- 💻 Portfolio Project **[Mahak - Portfolio](https://mahak.netlify.app/)**
-- 🌱 Currently diving deeper into Full Stack Development to broaden my expertise.
-- 📫 Feel free to reach out if you have any opportunity that fits my background: **mahak1923k@gmail.com**
 
-## 🔰 Let's Connect:
+### 👩‍💻 About Me
+
+- 💼 **Software Engineer** with experience building **production-ready backend systems** and **API-driven applications**
+- ⚙️ Strong in **Python, REST APIs, Flask, and system design fundamentals**
+- 🌐 Experience across **frontend + backend**, delivering scalable features in real-world products
+- 📊 Worked on **large datasets, analytics workflows, and performance optimization**
+- 🚀 Passionate about **problem solving, DSA, and scalable software architecture**
+- 🤝 Open to **Software Engineer / Backend / Full Stack opportunities & collaborations**
+
+📫 **Reach me:** **mahak1923k@gmail.com**
+
+---
+
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-k-100971232/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahak1923k@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahak-23)  
   
-## 🔧 Technologies & Tools:
+## 🧠 Technical Skills
 
-#### Languages
-<img src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black'> <img src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white'> <img src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white'> <img src='https://img.shields.io/badge/-Python-003B57?style=for-the-badge&logo=Python&logoColor=white'> 
+### 💻 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black'>
+---
 
-#### Frameworks and Libraries
-<img src='https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black'> <img src='https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white'> <img src='https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white'>   <img src='https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white'> <img src='https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white'> 
+### ⚙️ Backend & Databases
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 
-#### Databases
-<img src='https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white'> <img src='https://img.shields.io/badge/-MongoDb-003B57?style=for-the-badge&logo=MongoDB&logoColor=white'>
+---
 
-#### Version Control
-<img src='https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white'> <img src='https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'>
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-#### Tools & Utilities
-<img src='https://img.shields.io/badge/-Parcel-CB3837?style=for-the-badge&logo=Parcel&logoColor=white'> <img src='https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'>  <img src='https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white'> <img src='https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white'> <img src='https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'> 
+---
+
+### ☁️ Cloud & Dev Tools
+<img src="https://img.shields.io/badge/AWS%20Basics-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+---
+
+### 🧩 Computer Science Fundamentals
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Low%20Level%20Design-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating%20Systems-2E7D32?style=for-the-badge"/> <img src="https://img.shields.io/badge/DBMS-1565C0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Networks-455A64?style=for-the-badge"/>
+ 
 
 ## 📝 Latest Blog Posts
 - [Python Pyramid – HTML Form Template](https://www.geeksforgeeks.org/python-pyramid-html-form-template)
