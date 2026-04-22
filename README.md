@@ -9,12 +9,12 @@
 
 ### 👩‍💻 About Me
 
-- 💼 **Software Engineer** with experience building **production-ready backend systems** and **API-driven applications**
-- ⚙️ Strong in **Python, REST APIs, Flask, and system design fundamentals**
+- 💼 **Software Engineer** with experience building **production-ready software systems** and **API-driven applications**
+- ⚙️ Strong in **JavaScript, React.js, Redux, HRML, CSS, Python, REST APIs, Flask, and system design fundamentals**
 - 🌐 Experience across **frontend + backend**, delivering scalable features in real-world products
 - 📊 Worked on **large datasets, analytics workflows, and performance optimization**
 - 🚀 Passionate about **problem solving, DSA, and scalable software architecture**
-- 🤝 Open to **Software Engineer / Backend / Full Stack opportunities & collaborations**
+- 🤝 Open to **Software Engineer / Full Stack opportunities & collaborations**
 
 📫 **Reach me:** **mahak1923k@gmail.com**
 
