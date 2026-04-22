@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 💼 **Software Engineer** with experience building **production-ready software systems** and **API-driven applications**
-- ⚙️ Strong in **JavaScript, React.js, Redux, HRML, CSS, Python, REST APIs, Flask, and system design fundamentals**
+- ⚙️ Strong in **JavaScript, React.js, Redux, HTML, CSS, Python, REST APIs, Flask, and system design fundamentals**
 - 🌐 Experience across **frontend + backend**, delivering scalable features in real-world products
 - 📊 Worked on **large datasets, analytics workflows, and performance optimization**
 - 🚀 Passionate about **problem solving, DSA, and scalable software architecture**
@@ -30,13 +30,13 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black'>
 ---
 
-### ⚙️ Backend & Databases
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=white"/>
 
 ---
 
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+### ⚙️ Backend & Databases
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 
 ---
 
